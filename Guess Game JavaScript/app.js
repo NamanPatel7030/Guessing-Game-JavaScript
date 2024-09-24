@@ -1,5 +1,5 @@
 let Guess = parseInt(prompt('Guess'));
-let rand = Math.floor(Math.random() * 10);
+let rand = Math.floor(Math.random() * 100);
 let attempts=1;
 
 while(!Guess){

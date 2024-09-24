@@ -1,0 +1,1 @@
+let userinput= prompt("Enter 1)Add\n 2)Delete\n 3)List All\n 4)QuitApp");
